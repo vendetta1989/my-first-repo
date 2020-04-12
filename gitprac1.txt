@@ -1,4 +1,4 @@
 this is my first repo
 learning git is going well so far
 I added this line in the update_gitprac1 branch
-its windy out today
+its cloudy out today
